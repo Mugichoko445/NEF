@@ -1,6 +1,6 @@
 # NEF: Neural Error Fields for Follow-up Training with Fewer Rays
 
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://mediated-reality.github.io/projects/kitaura_vrst25/luchetti_visapp2026/)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://mediated-reality.github.io/projects/luchetti_visapp26/)
 
 ![teaser.png](teaser.png)
 
